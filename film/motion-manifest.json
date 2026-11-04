@@ -1,0 +1,26 @@
+{
+  "title": "Organic House",
+  "study": "oh01",
+  "bpm": 120,
+  "source_audio": "preview/organic-house-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "72686a9e079948218883ef176f040e3bf818e4d52605599892ae6ecf1b42f096",
+  "source_midi": "midi/oh01-clay-horizon/oh01-clay-horizon-combined.mid",
+  "source_midi_sha256": "fe518b531da42852adedc1c36eb6ab68dee4d7d74c25f60c3d060580e5337019",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "21afa4446c23ca46e012771639f2ea8ae33c818d94e45ef916d13510844dc6fb",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "8cbf36bdf2e62a52a0391b8e5741d21f5ed9d876517764454480e10704c79366",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "98efc094f3963296c1f10c7dcfaded4a87df3597125fd2a699884bffc8189230",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
