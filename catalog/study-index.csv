@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+oh01,Clay Horizon,pack-local equal-tempered pitch collection,D,120,4/4,480,32,61440,midi/oh01-clay-horizon/oh01-clay-horizon-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+oh02,Woven Air,pack-local equal-tempered pitch collection,F,120,4/4,480,32,61440,midi/oh02-woven-air/oh02-woven-air-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+oh03,Sunlit Floor,pack-local equal-tempered pitch collection,G#,120,4/4,480,32,61440,midi/oh03-sunlit-floor/oh03-sunlit-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+oh04,Earth Return,pack-local equal-tempered pitch collection,D#,120,4/4,480,32,61440,midi/oh04-earth-return/oh04-earth-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

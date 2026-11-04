@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "organic-house-studies",
+  "display_name": "Organic House Studies",
+  "brief_name": "Organic House",
+  "creative_intention": "Warm chord motifs with interlocking pitched accents.",
+  "rhythmic_direction": "Light offsets frame a steady pulse and melodic responses.",
+  "palette": "Warm keys, low bass and short pitched accents.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not claims of cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack organic-house-studies",
+  "actual_tempo_bpm": 120,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "oh01",
+      "title": "Clay Horizon",
+      "tonic": "D",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "oh02",
+      "title": "Woven Air",
+      "tonic": "F",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "oh03",
+      "title": "Sunlit Floor",
+      "tonic": "G#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "oh04",
+      "title": "Earth Return",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}
