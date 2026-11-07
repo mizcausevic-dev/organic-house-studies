@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 783,
-      "sha256": "47ac676433b8b7260d023a56828871f0ae95028eb5f656de667818d21af1c82c"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3548,
-      "sha256": "586e4aab325a16a72cda0d7b2398b27bb50e5c30539f096cf986d6f74fbf97b2"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/organic-house-studies-midi.zip",
-      "bytes": 23314,
-      "sha256": "30fe738d9790fd09fa25adccb4732edf86d98da9c51491612fde14be3be68359"
+      "bytes": 25386,
+      "sha256": "b851d30d911bdc0bb92268c90c41280eaa5a12bbd1ccce2e87ab3571c5f555bd"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 32853,
       "sha256": "31c9b380d5027b837e1829ff61d9cba7bda754ed839c57f53e6bf9354b72892c"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1165490,
-      "sha256": "98efc094f3963296c1f10c7dcfaded4a87df3597125fd2a699884bffc8189230"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9253,
-      "sha256": "62f4b25271a3d8f2ef9d198483536b153902788e50ea0a749c96a5551955a5b2"
+      "bytes": 9443,
+      "sha256": "80a5498f69c8a1207ec75d918c98fb4726841477352f82b9214fdf47dd4b4dad"
     },
     {
       "path": "midi/oh01-clay-horizon/chord_pulse.mid",
@@ -312,6 +297,16 @@
       "sha256": "b9c01f82aac2f9ab849f586af586e07d249a983e53cd1562a961f8f28b480e12"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 783,
+      "sha256": "47ac676433b8b7260d023a56828871f0ae95028eb5f656de667818d21af1c82c"
+    },
+    {
       "path": "preview/organic-house-studies-simple-synth-preview.mp3",
       "bytes": 1549836,
       "sha256": "72686a9e079948218883ef176f040e3bf818e4d52605599892ae6ecf1b42f096"
@@ -320,6 +315,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1134,
       "sha256": "328476dac92262b67e7470b619b203945d3b4c32eaa5dccf1d25e6ea36784ca4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3663,
+      "sha256": "35a00f2fe645fb4706e3f2a0d5fb66bebdd7ba09f4f886a7c8a003053ac477ad"
     },
     {
       "path": "social/instagram/caption.txt",
